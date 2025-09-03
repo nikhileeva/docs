@@ -23,5 +23,5 @@
 ## Links  
 
 - [Qase Test Suite](https://app.qase.io/project/G101?view=2&suite=24)  
-- [PDF with Test Cases](./docs/Test_Cases_Registration_and_ProductCatalog.pdf)
+- [PDF with Test Cases](https://github.com/nikhileeva/docs/blob/main/Test_Cases_Registration_and_ProductCatalog.pdf)
 
