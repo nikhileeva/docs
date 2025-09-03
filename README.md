@@ -1,6 +1,6 @@
 # Тестовая документация
 
-**Проект:** Online Store
+**Project:** Online Store
 
 ## Охват функциональности (Modules / Features)
 
@@ -18,3 +18,10 @@
   
    **Ссылка на чек-лист:**  
 [Открыть Google Sheets](https://docs.google.com/spreadsheets/d/1LSmyHlZGCR0kUfBhj7vCvJeBw1h3GnfdUmKkL1uQgMs/edit?gid=1595243412#gid=1595243412)
+
+
+## Links  
+
+- [Qase Test Suite](https://app.qase.io/project/G101?view=2&suite=24)  
+- [PDF with Test Cases](./docs/Test_Cases_Registration_and_ProductCatalog.pdf)
+
