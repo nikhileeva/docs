@@ -28,3 +28,7 @@ All cases were exported to PDF (32 pages) and linked below.
 - [Qase Test Suite](https://app.qase.io/project/G101?view=2&suite=24)  
 - [PDF with Test Cases](https://github.com/nikhileeva/docs/blob/main/Test_Cases_Registration_and_ProductCatalog.pdf)
 
+Exported Reports
+
+- [Defect Reports (xlsx)](https://github.com/nikhileeva/docs/blob/main/Defect%20reports.xlsx) – exported from YouTrack.  
+- [Test Run Results (pdf)]([./Test_Run_Results.pdf](https://github.com/nikhileeva/docs/blob/main/Test_Cases_Registration_and_ProductCatalog.pdf)) – exported from QASE
