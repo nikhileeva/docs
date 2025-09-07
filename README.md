@@ -30,5 +30,5 @@ All cases were exported to PDF (32 pages) and linked below.
 
 Exported Reports
 
-- [Defect Reports (xlsx)](https://github.com/nikhileeva/docs/blob/main/Defect%20reports.xlsx) – exported from YouTrack.  
+- [Defect Reports (xlsx)](https://docs.google.com/spreadsheets/d/1VupU-TbtBktKy1begWsO2AFB3v9Wu4oFpP4DZ5EBPxQ/edit?gid=1666527323#gid=1666527323)) – exported from YouTrack.  
 - [Test Run Results (pdf)]([./Test_Run_Results.pdf](https://github.com/nikhileeva/docs/blob/main/Test_Cases_Registration_and_ProductCatalog.pdf)) – exported from QASE
